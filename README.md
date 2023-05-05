@@ -21,7 +21,7 @@ The code for this project is written in Python . The code is available in the `l
 ![Age distribution of the patients](https://user-images.githubusercontent.com/115123767/236368862-e6358cdd-d969-4352-a22d-d65eefda8390.png)
 
 ### Count Plot
-![Count Plot](Count Plot.png)![Count Plot](https://user-images.githubusercontent.com/115123767/236368873-6a094e40-61b5-4e7b-972d-eec4237a477c.png)
+![Count Plot](https://user-images.githubusercontent.com/115123767/236368873-6a094e40-61b5-4e7b-972d-eec4237a477c.png)
 
 ### Correlation
 ![Correlation](Correlation.png)
