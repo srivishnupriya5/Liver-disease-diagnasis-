@@ -7,7 +7,7 @@ The data set contains 416 liver patient records and 167 non liver patient record
 
 Any patient whose age exceeded 89 is listed as being of age "90".
 ![Data Set](Data.![dataset](https://user-images.githubusercontent.com/115123767/236369336-cdc514ac-f5cf-474c-ba30-babd819b1713.png)
-jpg)
+
 
 
 ## Environment
